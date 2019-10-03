@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/FGHTech/Fauglass/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+layout: default
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Soon
 
-### Markdown
+A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What's in it?
 
-```markdown
-Syntax highlighted code block
+A single static page with a full screen image. Remember those *under construction* sites? The point is to have a contact page for a few hours or a few days while you are building your amazing site.
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+## Get started
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FGHTech/Fauglass/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
